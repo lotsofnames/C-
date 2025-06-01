@@ -9,7 +9,7 @@ for slovo in slova:
     elif slovo.startswith("#"):
         st.subheader(slovo.replace("#", ""))
     elif slovo.startswith("/"):
-        st.image(f"{slovo.strip().replace("/","")}..jpg")
+        st.image(f"{slovo.replace("/","").strip()}..jpg")
     else:
         st.write(slovo)
 
