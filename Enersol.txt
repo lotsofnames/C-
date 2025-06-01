@@ -1,16 +1,16 @@
 ﻿$ENERSOL SK
-        15. ročník
+#15. ročník
 
 
- Propagačná kategória
+#Propagačná kategória
  
  
-  Domy, ktoré rastú na poli 
+$Domy, ktoré rastú na poli
   
   
-  
-  
-  
+
+
+
   
   
   
@@ -39,11 +39,11 @@
 Obsah
 
 
-1.	Úvod	3
-2.	Stručná charakteristika projektu	4
-3.	Vlastný obsah projektu	4
-4.	Záver a zhodnotenie	5
-5.	Obrazová príloha	6
+1.	Úvod
+2.	Stručná charakteristika projektu
+3.	Vlastný obsah projektu
+4.	Záver a zhodnotenie
+5.	Obrazová príloha
 
 
 #Úvod
@@ -85,7 +85,7 @@ Tak  ako spomínaná firma aj my všetci by sme si mali položiť otázku:
 Možno rozšírenie konopného hospodárstva je tým správnym krokom.
 #5. Obrazová príloha
 Obr.1: Roll up/banner:
-
+\1
 
 
 
@@ -104,9 +104,13 @@ Obr.1: Roll up/banner:
 
 
 Obr.2: Brožúrka:
-1.Str.: 2.Str.:
-Obr.3: Brožúrka:
 
+1.Str.:
+\2
+2.Str.:
+\3
+Obr.3: Brožúrka:
+\4
 
 
 
@@ -115,15 +119,5 @@ Obr.3: Brožúrka:
 
 
 Obr.4:Roll up/banner:
-
-
-
-
-
-
-2
-
-
-
-1
+\5
 
