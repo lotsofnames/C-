@@ -85,7 +85,7 @@ Tak  ako spomínaná firma aj my všetci by sme si mali položiť otázku:
 Možno rozšírenie konopného hospodárstva je tým správnym krokom.
 #5. Obrazová príloha
 Obr.1: Roll up/banner:
-\1
+/1
 
 
 
@@ -106,11 +106,11 @@ Obr.1: Roll up/banner:
 Obr.2: Brožúrka:
 
 1.Str.:
-\2
+/2
 2.Str.:
-\3
+/3
 Obr.3: Brožúrka:
-\4
+/4
 
 
 
@@ -119,5 +119,5 @@ Obr.3: Brožúrka:
 
 
 Obr.4:Roll up/banner:
-\5
+/5
 

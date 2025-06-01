@@ -8,8 +8,8 @@ for slovo in slova:
         st.title(slovo.replace("$", ""))
     elif slovo.startswith("#"):
         st.subheader(slovo.replace("#", ""))
-    elif slovo.startswith("\\"):
-        st.image(f"{slovo.strip().replace("\\","")}..jpg")
+    elif slovo.startswith("/"):
+        st.image(f"{slovo.strip().replace("/","")}..jpg")
     else:
         st.write(slovo)
 
